@@ -155,3 +155,4 @@ cython_debug/
 MARCO_TFRecords/*
 MARCO_IMAGES
 MARCO_IMAGES_resized
+CVAT_IMAGES
