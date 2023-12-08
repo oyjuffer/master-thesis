@@ -152,6 +152,6 @@ cython_debug/
 #.idea/
 
 # OTHER
-MARCO_TFRecords
+MARCO_TFRecords/*
 MARCO_IMAGES
 MARCO_IMAGES_resized
